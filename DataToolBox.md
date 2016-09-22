@@ -9,7 +9,7 @@
   5. vi HelloWorld.md
     - i
     - ## This is a markdown file.
-    - <esc>
+    - &lt;esc&gt;
     - ZZ
   6. git add HelloWorld.md
   7. git commit -m "Created HelloWorld.md"
