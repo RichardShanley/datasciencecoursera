@@ -2,7 +2,7 @@
 1. Created account within GitHub - Shanley85
 2. Created Repo - datasciencecoursera
   - Click the green "Clone or Download" button, then click the "copy to clipboard" button.
-    ![alt text](https://github.com/Shanley85/datasciencecoursera/images/download-link.jpg "How to copy your link.")
+    ![alt text](https://raw.githubusercontent.com/Shanley85/datasciencecoursera/master/images/download-link.JPG "How to copy your link.")
   - Paste the link into your assessment.
 3. Launch Git Bash
   1. cd
